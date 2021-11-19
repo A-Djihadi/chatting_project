@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="pdla_chatting_project" version="4">
+  <OBJECT>
+    <ID name="pdla_chatting_project" mc="Standard.Project" uid="f6e8a047-8d1e-4878-9fb7-84006b6010de"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[pdla_chatting_project]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="pdla_chatting_project" mc="Standard.Package" uid="cc5c6a41-7809-48e1-bca7-54418e96aeee"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="pdla_chatting_project" mc="Infrastructure.DiagramSet" uid="2dd3d782-9017-4fbf-96f1-ac899c70695f"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

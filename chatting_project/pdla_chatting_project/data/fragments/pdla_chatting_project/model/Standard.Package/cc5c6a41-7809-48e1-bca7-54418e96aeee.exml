@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="pdla_chatting_project" version="4">
+  <OBJECT>
+    <ID name="pdla_chatting_project" mc="Standard.Package" uid="cc5c6a41-7809-48e1-bca7-54418e96aeee"/>
+    <PID name="pdla_chatting_project" mc="Standard.Project" uid="f6e8a047-8d1e-4878-9fb7-84006b6010de"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[pdla_chatting_project]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Interaction" mc="Standard.Interaction" uid="35ae6141-52d8-4fd7-bcce-79b158d02391"/>
+        <COMPID name="Interaction1" mc="Standard.Interaction" uid="3f80dda6-0db1-4f60-8e4f-deb4401db65d"/>
+        <COMPID name="Interaction2" mc="Standard.Interaction" uid="df51c472-8454-4d15-8e53-ddb8dd4ec5bd"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="User" mc="Standard.Actor" uid="3a5a08f2-7878-4ec1-afbf-05aa0774364c"/>
+        <COMPID name="Disconnect" mc="Standard.UseCase" uid="1a77edb2-f0d9-44ea-9b7b-fa5d0cb10410"/>
+        <COMPID name="Choose pseudo" mc="Standard.UseCase" uid="b6423b92-930c-4119-b047-30496edb7d16"/>
+        <COMPID name="Check pseudo unicity " mc="Standard.UseCase" uid="3a193359-18e0-43b5-8644-d7f9d6003517"/>
+        <COMPID name="Change pseudo " mc="Standard.UseCase" uid="9118bcd8-4cba-4e61-a36d-3732c39faac6"/>
+        <COMPID name="Notify All user connected" mc="Standard.UseCase" uid="39c63fff-05b6-4a61-965e-d2d637496305"/>
+        <COMPID name="Identify All user connected" mc="Standard.UseCase" uid="b280bca3-9f0c-469c-8343-186312e3e588"/>
+        <COMPID name="Get Message History" mc="Standard.UseCase" uid="61799207-d59e-4a9a-a932-a50a5bb2731f"/>
+        <COMPID name="Start Chatting Session" mc="Standard.UseCase" uid="0d6ad166-bc56-40d1-95a7-d50244a0b0b6"/>
+        <COMPID name="Close Chatting Session" mc="Standard.UseCase" uid="a59c969e-fe4e-433a-a2a5-b18319a9acf8"/>
+        <COMPID name="Reduce Windows" mc="Standard.UseCase" uid="6b2553cd-068c-4883-95ea-61dc85f64aa7"/>
+        <COMPID name="Send Message" mc="Standard.UseCase" uid="708d8fd9-077b-42a0-942b-f5deadd9631c"/>
+        <COMPID name="Receive Message" mc="Standard.UseCase" uid="d2b4174c-fb4f-424f-9010-1021cb8cdaa9"/>
+        <COMPID name="Clock System" mc="Standard.Actor" uid="115257de-066b-41bc-a992-341611ee0abc"/>
+        <COMPID name="TCP/UDP Protocol" mc="Standard.Actor" uid="2b404720-a897-4cc1-9c81-fdb018037d12"/>
+        <COMPID name="BDD" mc="Standard.Actor" uid="880ebf95-3e90-476a-a9cd-e765810c96bb"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Diagramme de cas dutilisation {0}" mc="Standard.UseCaseDiagram" uid="1eda9d25-e75b-4e40-9d2a-220cf33979bd"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
