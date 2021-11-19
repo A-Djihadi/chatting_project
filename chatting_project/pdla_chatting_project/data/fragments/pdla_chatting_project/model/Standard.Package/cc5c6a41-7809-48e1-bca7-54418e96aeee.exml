@@ -35,9 +35,14 @@
         <COMPID name="Clock System" mc="Standard.Actor" uid="115257de-066b-41bc-a992-341611ee0abc"/>
         <COMPID name="TCP/UDP Protocol" mc="Standard.Actor" uid="2b404720-a897-4cc1-9c81-fdb018037d12"/>
         <COMPID name="BDD" mc="Standard.Actor" uid="880ebf95-3e90-476a-a9cd-e765810c96bb"/>
+        <COMPID name="System" mc="Standard.Class" uid="b5795e40-f2e1-48ec-8d45-50d8f7026ba2"/>
+        <COMPID name="User" mc="Standard.Class" uid="c981163f-8f59-48ab-a396-981efbd8652c"/>
+        <COMPID name="DataBase" mc="Standard.Class" uid="6c3fe81d-99d4-437e-b1d3-678c9c249038"/>
+        <COMPID name="Clock" mc="Standard.Class" uid="aceb6da4-6a28-4d8c-bfe8-df0fea0b587c"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="Diagramme de cas dutilisation {0}" mc="Standard.UseCaseDiagram" uid="1eda9d25-e75b-4e40-9d2a-220cf33979bd"/>
+        <COMPID name="Diagramme de classe pdla_chatting_project" mc="Standard.ClassDiagram" uid="97200302-4c86-43a1-86a6-091ed1f38750"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>
