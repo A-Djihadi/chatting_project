@@ -17,7 +17,7 @@
     <DEPENDENCIES>
       <COMP relation="OwnedAttribute">
         <OBJECT>
-          <ID name="Author" mc="Standard.Attribute" uid="2825644f-99d3-4804-a34d-4f8653b0c634"/>
+          <ID name="Sender" mc="Standard.Attribute" uid="2825644f-99d3-4804-a34d-4f8653b0c634"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -31,7 +31,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[Author]]></ATT>
+            <ATT name="Name"><![CDATA[Sender]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
