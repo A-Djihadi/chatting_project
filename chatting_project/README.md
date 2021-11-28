@@ -10,4 +10,4 @@ Uses Cases Diagram :
 
 
 Class Diagram :
-![alt text](https://github.com/A-Djihadi/chatting_project/blob/master/chatting_project/pdla_chatting_project/pdla_class_diagram.png?raw=true "Diagram")
+![alt text](https://github.com/A-Djihadi/chatting_project/blob/master/chatting_project/pdla_chatting_project/pdla_class_diagram.PNG?raw=true "Diagram")
