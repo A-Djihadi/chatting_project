@@ -41,45 +41,24 @@
         <COMPID name="DataBase" mc="Standard.Class" uid="6c3fe81d-99d4-437e-b1d3-678c9c249038"/>
         <COMPID name="Clock" mc="Standard.Class" uid="aceb6da4-6a28-4d8c-bfe8-df0fea0b587c"/>
         <COMPID name="Message" mc="Standard.Class" uid="b2959a2c-60f8-422b-ad91-a34a25cf82e9"/>
-        <COMPID name="Communication System" mc="Standard.Class" uid="8a0d6f53-0291-433a-951f-877ec2abb484"/>
-        <OBJECT>
-          <ID name="protocol" mc="Standard.Enumeration" uid="7d1042da-ad8c-4568-b6f8-72290699f393"/>
-          <ATTRIBUTES>
-            <ATT name="IsElementary">true</ATT>
-            <ATT name="IsAbstract">false</ATT>
-            <ATT name="IsLeaf">false</ATT>
-            <ATT name="IsRoot">false</ATT>
-            <ATT name="Visibility">Public</ATT>
-            <ATT name="Name"><![CDATA[protocol]]></ATT>
-            <ATT name="status">1970354901745664</ATT>
-          </ATTRIBUTES>
-          <DEPENDENCIES>
-            <COMP relation="Value">
-              <OBJECT>
-                <ID name="TCP" mc="Standard.EnumerationLiteral" uid="6f7b5655-6556-4653-969e-64716f934a37"/>
-                <ATTRIBUTES>
-                  <ATT name="Name"><![CDATA[TCP]]></ATT>
-                  <ATT name="status">1970354901745664</ATT>
-                </ATTRIBUTES>
-                <DEPENDENCIES></DEPENDENCIES>
-              </OBJECT>
-              <OBJECT>
-                <ID name="UDP" mc="Standard.EnumerationLiteral" uid="c9d797a4-ba8f-4da9-b533-402bc20b2ca9"/>
-                <ATTRIBUTES>
-                  <ATT name="Name"><![CDATA[UDP]]></ATT>
-                  <ATT name="status">1970354901745664</ATT>
-                </ATTRIBUTES>
-                <DEPENDENCIES></DEPENDENCIES>
-              </OBJECT>
-            </COMP>
-          </DEPENDENCIES>
-        </OBJECT>
-        <COMPID name="GUI" mc="Standard.Class" uid="9ba1df5f-4fde-4ac7-a835-a12cb8a5490b"/>
+        <COMPID name="TCP" mc="Standard.Class" uid="8a0d6f53-0291-433a-951f-877ec2abb484"/>
         <COMPID name="Connexion GUI" mc="Standard.Class" uid="94462c71-742d-4078-a671-36b585a74ded"/>
+        <COMPID name="main" mc="Standard.Class" uid="56845e26-6f1f-4c35-b2b1-02e2ff79e029"/>
+        <COMPID name="List User" mc="Standard.Class" uid="15dcd3b4-88eb-438c-9a2f-b786c2e41d93"/>
+        <COMPID name="Control" mc="Standard.Package" uid="d9d1dac6-039d-4154-82bc-4a594e4ff7f1"/>
+        <COMPID name="Model" mc="Standard.Package" uid="17e70a7e-3be6-4d30-accb-cadcdd44f38c"/>
+        <COMPID name="View" mc="Standard.Package" uid="b8a701de-78eb-44fb-abaf-a931c5f3e845"/>
+        <COMPID name="main" mc="Standard.Class" uid="8e8b59dc-1a38-4e94-b687-ee5b1547a2eb"/>
+        <COMPID name="Update History" mc="Standard.UseCase" uid="6fd08989-9b3b-472f-a022-1cf248a70632"/>
+        <COMPID name="Horodating Messsage" mc="Standard.UseCase" uid="118cb150-28bf-4665-8658-737c7049ec09"/>
+        <COMPID name="UDP" mc="Standard.Class" uid="05a0faae-92cd-49da-9f69-f273415a0330"/>
+        <COMPID name="userList" mc="Standard.DataType" uid="0544f772-5b76-4adf-916e-1e3703d73d54"/>
+        <COMPID name="msgList" mc="Standard.DataType" uid="67de2560-7682-44e4-b4f8-53a24c97ec62"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="Diagramme de cas dutilisation {0}" mc="Standard.UseCaseDiagram" uid="1eda9d25-e75b-4e40-9d2a-220cf33979bd"/>
         <COMPID name="Diagramme de classe pdla_chatting_project" mc="Standard.ClassDiagram" uid="97200302-4c86-43a1-86a6-091ed1f38750"/>
+        <COMPID name="Diagramme de classe pdla_chatting_project (1)" mc="Standard.ClassDiagram" uid="00d60545-d69e-4eb3-a63b-503198359a8d"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>
