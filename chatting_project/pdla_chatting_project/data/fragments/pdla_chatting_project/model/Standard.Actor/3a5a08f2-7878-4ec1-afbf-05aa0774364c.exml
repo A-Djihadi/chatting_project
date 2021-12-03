@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="User" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object=":User" version="4">
   <OBJECT>
-    <ID name="User" mc="Standard.Actor" uid="3a5a08f2-7878-4ec1-afbf-05aa0774364c"/>
+    <ID name=":User" mc="Standard.Actor" uid="3a5a08f2-7878-4ec1-afbf-05aa0774364c"/>
     <PID name="pdla_chatting_project" mc="Standard.Package" uid="cc5c6a41-7809-48e1-bca7-54418e96aeee"/>
     <ATTRIBUTES>
       <ATT name="IsElementary">false</ATT>
@@ -9,7 +9,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[User]]></ATT>
+      <ATT name="Name"><![CDATA[:User]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>

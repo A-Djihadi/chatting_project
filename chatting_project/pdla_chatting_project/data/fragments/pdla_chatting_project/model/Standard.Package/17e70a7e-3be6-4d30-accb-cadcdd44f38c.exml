@@ -19,6 +19,9 @@
         <COMPID name="List Users" mc="Standard.Class" uid="7e3416f4-f8df-4a14-811c-0c89cf5884da"/>
         <COMPID name="BDD" mc="Standard.Class" uid="fe383fb1-3624-4706-ab47-159991160bc1"/>
       </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
     </DEPENDENCIES>
   </OBJECT>
 </EXT>

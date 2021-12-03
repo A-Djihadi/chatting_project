@@ -17,6 +17,9 @@
         <COMPID name="TCP" mc="Standard.Class" uid="ff61ed7f-aff4-4d1d-b4ab-4d4de40b7d29"/>
         <COMPID name="UDP" mc="Standard.Class" uid="7d139dcc-d25d-49db-a6a9-b0d394d5cbda"/>
       </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
     </DEPENDENCIES>
   </OBJECT>
 </EXT>

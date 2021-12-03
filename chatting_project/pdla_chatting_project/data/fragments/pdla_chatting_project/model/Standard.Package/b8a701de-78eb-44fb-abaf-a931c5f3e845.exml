@@ -17,6 +17,9 @@
         <COMPID name="Main Window" mc="Standard.Class" uid="5d4721dd-a8b3-49fd-b383-741861a7b31e"/>
         <COMPID name="ConnexionView" mc="Standard.Class" uid="4cbdd2e0-e730-4aab-b755-bf5a3e54d4a8"/>
       </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
     </DEPENDENCIES>
   </OBJECT>
 </EXT>

@@ -1,4 +1,4 @@
-#Tue Nov 30 20:53:56 GMT+01:00 2021
+#Fri Dec 03 22:17:31 CET 2021
 org.modelio.app.diagram.editor.OpenedDiagrams4='Diagramme de s\u00E9quence Interaction3' {491eb62b-8f9b-4a57-8758-f0e28cc95d5b} Standard.SequenceDiagram
 org.modelio.app.diagram.editor.OpenedDiagrams3='Diagramme de s\u00E9quence SendMsg' {d53cef1d-385a-47a8-b256-20e02cbf288c} Standard.SequenceDiagram
 org.modelio.app.diagram.editor.OpenedDiagrams2='Diagramme de s\u00E9quence de Connect' {4cd401db-b4d2-4b63-8e2c-2beef87676c2} Standard.SequenceDiagram
@@ -12,3 +12,5 @@ org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///C\
 org.modelio.app.module.propertytab.SysMLArchitect\ v3.10.00\ GModule\ @file\:///C\:/Users/jia-g/.modelio/4.1/modules/SysMLArchitect_3.10.00/SysMLArchitect_3.10.00.jmdac\ runtime\ module_SysMLPropertyPage.org.modelio.full.perspective.parentId=app.ui.ext_com.partstack.bottom
 org.modelio.app.module.propertytab.SysMLArchitect\ v3.10.00\ GModule\ @file\:///C\:/Users/jia-g/.modelio/4.1/modules/SysMLArchitect_3.10.00/SysMLArchitect_3.10.00.jmdac\ runtime\ module_SysMLPropertyPage.org.modelio.diagram.perspective.parentId=app.ui.ext_com.partstack.right
 org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///C\:/Users/jia-g/.modelio/4.1/modules/JavaDesigner_3.10.00/JavaDesigner_3.10.00.jmdac\ runtime\ module_.org.modelio.app.ui.model.perspective.parentId=org.modelio.app.bottom.parts
+org.modelio.app.diagram.editor.OpenedDiagrams6='Diagramme de classe pdla_chatting_project (1)' {00d60545-d69e-4eb3-a63b-503198359a8d} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams5='Diagramme de classe pdla_chatting_project' {97200302-4c86-43a1-86a6-091ed1f38750} Standard.ClassDiagram
