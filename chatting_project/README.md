@@ -5,7 +5,7 @@ This system will allow the user to :
   -Make a discussion with a specific connected user.
   -Load the previous exchanged messages.
   
-  A link for the newest UML diagram : https://a-djihadi.github.io/chatting_project/chatting_project/pdla_chatting_project/doc/UML_project/0.h
+  A link for the newest UML diagram : https://a-djihadi.github.io/chatting_project/chatting_project/pdla_chatting_project/doc/UML_project/0.html
 
 Uses Cases Diagram :
 ![alt text](https://github.com/A-Djihadi/chatting_project/blob/master/chatting_project/pdla_chatting_project/pdla_uses_cases_diagram.png?raw=true "Diagram")
