@@ -146,7 +146,7 @@
           <DEPENDENCIES>
             <LINK relation="Covered">
               <REFOBJ>
-                <ID name="Database" mc="Standard.Lifeline" uid="fe423837-acb7-4622-83da-05e5c497dc1d"/>
+                <ID name="Réseau" mc="Standard.Lifeline" uid="fe423837-acb7-4622-83da-05e5c497dc1d"/>
               </REFOBJ>
             </LINK>
           </DEPENDENCIES>
@@ -181,7 +181,7 @@
             </COMP>
             <LINK relation="Covered">
               <REFOBJ>
-                <ID name="Database" mc="Standard.Lifeline" uid="fe423837-acb7-4622-83da-05e5c497dc1d"/>
+                <ID name="Réseau" mc="Standard.Lifeline" uid="fe423837-acb7-4622-83da-05e5c497dc1d"/>
               </REFOBJ>
             </LINK>
           </DEPENDENCIES>
@@ -224,7 +224,7 @@
                 <ID name="User" mc="Standard.Lifeline" uid="3096e0a9-753a-4ff1-939b-a33789faf337"/>
               </REFOBJ>
               <REFOBJ>
-                <ID name="Database" mc="Standard.Lifeline" uid="fe423837-acb7-4622-83da-05e5c497dc1d"/>
+                <ID name="Réseau" mc="Standard.Lifeline" uid="fe423837-acb7-4622-83da-05e5c497dc1d"/>
               </REFOBJ>
               <REFOBJ>
                 <ID name="Système" mc="Standard.Lifeline" uid="bf357a25-d2ff-4e30-8f68-fa538f348b1a"/>
@@ -369,7 +369,7 @@
             </COMP>
             <LINK relation="Covered">
               <REFOBJ>
-                <ID name="Database" mc="Standard.Lifeline" uid="fe423837-acb7-4622-83da-05e5c497dc1d"/>
+                <ID name="Réseau" mc="Standard.Lifeline" uid="fe423837-acb7-4622-83da-05e5c497dc1d"/>
               </REFOBJ>
             </LINK>
           </DEPENDENCIES>
@@ -479,7 +479,7 @@
             </LINK>
             <LINK relation="Covered">
               <REFOBJ>
-                <ID name="Database" mc="Standard.Lifeline" uid="fe423837-acb7-4622-83da-05e5c497dc1d"/>
+                <ID name="Réseau" mc="Standard.Lifeline" uid="fe423837-acb7-4622-83da-05e5c497dc1d"/>
               </REFOBJ>
             </LINK>
           </DEPENDENCIES>
@@ -494,7 +494,7 @@
           <DEPENDENCIES>
             <LINK relation="Covered">
               <REFOBJ>
-                <ID name="Database" mc="Standard.Lifeline" uid="fe423837-acb7-4622-83da-05e5c497dc1d"/>
+                <ID name="Réseau" mc="Standard.Lifeline" uid="fe423837-acb7-4622-83da-05e5c497dc1d"/>
               </REFOBJ>
             </LINK>
           </DEPENDENCIES>
@@ -514,7 +514,7 @@
             </LINK>
             <LINK relation="Covered">
               <REFOBJ>
-                <ID name="Database" mc="Standard.Lifeline" uid="fe423837-acb7-4622-83da-05e5c497dc1d"/>
+                <ID name="Réseau" mc="Standard.Lifeline" uid="fe423837-acb7-4622-83da-05e5c497dc1d"/>
               </REFOBJ>
             </LINK>
           </DEPENDENCIES>
@@ -599,7 +599,7 @@
                 <ID name="Système" mc="Standard.Lifeline" uid="bf357a25-d2ff-4e30-8f68-fa538f348b1a"/>
               </REFOBJ>
               <REFOBJ>
-                <ID name="Database" mc="Standard.Lifeline" uid="fe423837-acb7-4622-83da-05e5c497dc1d"/>
+                <ID name="Réseau" mc="Standard.Lifeline" uid="fe423837-acb7-4622-83da-05e5c497dc1d"/>
               </REFOBJ>
             </LINK>
           </DEPENDENCIES>
@@ -1053,10 +1053,10 @@ msg : char]]></ATT>
           <DEPENDENCIES></DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="Database" mc="Standard.Lifeline" uid="fe423837-acb7-4622-83da-05e5c497dc1d"/>
+          <ID name="Réseau" mc="Standard.Lifeline" uid="fe423837-acb7-4622-83da-05e5c497dc1d"/>
           <ATTRIBUTES>
             <ATT name="Selector"></ATT>
-            <ATT name="Name"><![CDATA[Database]]></ATT>
+            <ATT name="Name"><![CDATA[Réseau]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES></DEPENDENCIES>

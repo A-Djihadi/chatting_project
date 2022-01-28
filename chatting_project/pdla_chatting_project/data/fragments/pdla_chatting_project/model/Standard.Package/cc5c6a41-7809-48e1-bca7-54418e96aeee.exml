@@ -20,7 +20,7 @@
         <COMPID name="Interaction3" mc="Standard.Interaction" uid="8fb058ef-00a3-43ae-87eb-510d6a7753c9"/>
       </COMP>
       <COMP relation="OwnedElement">
-        <COMPID name="User" mc="Standard.Actor" uid="3a5a08f2-7878-4ec1-afbf-05aa0774364c"/>
+        <COMPID name=":User" mc="Standard.Actor" uid="3a5a08f2-7878-4ec1-afbf-05aa0774364c"/>
         <COMPID name="Disconnect" mc="Standard.UseCase" uid="1a77edb2-f0d9-44ea-9b7b-fa5d0cb10410"/>
         <COMPID name="Choose pseudo" mc="Standard.UseCase" uid="b6423b92-930c-4119-b047-30496edb7d16"/>
         <COMPID name="Check pseudo unicity " mc="Standard.UseCase" uid="3a193359-18e0-43b5-8644-d7f9d6003517"/>
@@ -48,7 +48,7 @@
         <COMPID name="Control" mc="Standard.Package" uid="d9d1dac6-039d-4154-82bc-4a594e4ff7f1"/>
         <COMPID name="Model" mc="Standard.Package" uid="17e70a7e-3be6-4d30-accb-cadcdd44f38c"/>
         <COMPID name="View" mc="Standard.Package" uid="b8a701de-78eb-44fb-abaf-a931c5f3e845"/>
-        <COMPID name="main" mc="Standard.Class" uid="8e8b59dc-1a38-4e94-b687-ee5b1547a2eb"/>
+        <COMPID name="Main" mc="Standard.Class" uid="8e8b59dc-1a38-4e94-b687-ee5b1547a2eb"/>
         <COMPID name="Update History" mc="Standard.UseCase" uid="6fd08989-9b3b-472f-a022-1cf248a70632"/>
         <COMPID name="Horodating Messsage" mc="Standard.UseCase" uid="118cb150-28bf-4665-8658-737c7049ec09"/>
         <COMPID name="UDP" mc="Standard.Class" uid="05a0faae-92cd-49da-9f69-f273415a0330"/>

@@ -16,7 +16,6 @@
       <COMP relation="OwnedElement">
         <COMPID name="User" mc="Standard.Class" uid="0e65f98e-6c79-4e49-ba47-de594f9bd0df"/>
         <COMPID name="Message" mc="Standard.Class" uid="a3d7bebd-ea72-4602-a3d9-310849568c00"/>
-        <COMPID name="List Users" mc="Standard.Class" uid="7e3416f4-f8df-4a14-811c-0c89cf5884da"/>
         <COMPID name="BDD" mc="Standard.Class" uid="fe383fb1-3624-4706-ab47-159991160bc1"/>
       </COMP>
       <LINK relation="Extension">
